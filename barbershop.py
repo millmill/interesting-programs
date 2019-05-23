@@ -1,8 +1,11 @@
 # Here is the program I wrote that demostrates threading using the barbershop problem
 # as an example.
 
+# This code was written in the second semester of my second year in Computer Applications in DCU
+
 #
 # Please use python 3 to execute this code
+#
 
 
 import time
