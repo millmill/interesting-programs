@@ -1,7 +1,7 @@
-# Here is the program I wrote that demostrates threading using the barbershop problem
-# as an example.
-
-# This code was written in the second semester of my second year in Computer Applications in DCU
+'''
+This code was written in the second semester of my second year of Computer Applications in DCU.
+The task was to demostrate threading using the well known barbershop problem as an example.
+'''
 
 #
 # Please use python 3 to execute this code
