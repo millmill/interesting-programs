@@ -1,5 +1,7 @@
 /*
-This code was written in the first semester of my third year of Computer Applications in DCU
+This code was written in the first semester of my third year of Computer Applications in DCU.
+The task was to compare Logic Programming with Object-Oriented Programming by creating two progreams that
+solve the same problem.
 */
 
 
