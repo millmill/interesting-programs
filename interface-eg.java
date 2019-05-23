@@ -1,3 +1,9 @@
+/*
+This code was written in the first semester of second year of Computer Applications in DCU.
+The purpose is to get to grips with the idea of implementing an interface in java.
+*/
+
+
 public class Main {
 
     public static void main(String[] args) {
