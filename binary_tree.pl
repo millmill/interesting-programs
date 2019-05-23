@@ -1,4 +1,9 @@
 /*
+This code was written in the first semester of my third year of Computer Applications in DCU
+*/
+
+
+/*
 Implement a program that provides the following operations on a binary tree.
 insert adds an integer x into a binary tree T to give a binary tree R.
 search returns true if x is contained in the binary tree T.
